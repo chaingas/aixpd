@@ -2,8 +2,7 @@
 //? Alternatively you can download the repository instead or forking and upload it from your account and keep it private, in that way, your secrets will not be exposed to the public.
 
 const APP_KEY = "UCIUlzgiDMw51pWaeRTdt16d3";
-const APP_SECRET = "RGIzgOR8FjdaIWZpfUqbBP4P0lry11ubxvAAhk8mBUaxcyzknU
-";
+const APP_SECRET = "RGIzgOR8FjdaIWZpfUqbBP4P0lry11ubxvAAhk8mBUaxcyzknU";
 const ACCESS_TOKEN = "902940178183892992-yLWydSCF6jkTfNwlm2P6xmXpQRq02GK";
 const ACCESS_SECRET = "3r0sEILoxSXBCQiIseKYmnGMK7annDOO4z5viEBc4hbFV";
 const GEMINI_API_KEY = "AIzaSyDcCDnS2LYBAHbD5oM6O34M09A-qcaQVu0";
